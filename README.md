@@ -1,6 +1,5 @@
 🍦 Ice Cream Sales Forecasting
-![Python 3.10+](https://www.python.org/downloads/)
-![Streamlit](https://streamlit.io)
+![Python 3.10+](https://www.python.org/downloads/), ![Streamlit](https://streamlit.io)
 ![License: MIT](LICENSE)
 ![XGBoost](https://xgboost.readthedocs.io/)
 Advanced application for forecasting weekly ice cream sales based on Machine Learning models (XGBoost + Prophet), real-time weather data (Open-Meteo API), and intelligently selected calendar features.
@@ -273,7 +272,7 @@ Kuba — Lead Developer
 If you encounter issues or have questions:
 Issues — open GitHub Issue
 Documentation — read Usage section
-Email — your-email@example.com
+Email — jakubcieciura1@gmail.com
 ---
 🙏 Acknowledgments
 Open-Meteo — for free weather API
