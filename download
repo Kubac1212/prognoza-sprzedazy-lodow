@@ -1,0 +1,39 @@
+# Python & Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Package Distribution
+*.egg-info/
+dist/
+build/
+
+# Environment & Configuration
+.env
+manual_corrections.xlsx
+*.xlsx~
+.ipynb_checkpoints/

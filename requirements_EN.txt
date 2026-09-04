@@ -1,0 +1,28 @@
+# Ice Cream Sales Forecasting Application — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web framework & UI
+streamlit==1.57.0           # Interactive web interface for ML apps
+
+# Data processing & analysis
+pandas==3.0.2              # Tabular data manipulation
+numpy==2.4.4               # Numerical computing & array operations
+
+# Machine Learning & forecasting
+xgboost==3.2.0             # Gradient boosting for regression (quantile-based)
+prophet==1.3.0             # Time series forecasting with seasonality
+scikit-learn==1.8.0        # ML utilities (TimeSeriesSplit, metrics)
+
+# Visualization
+plotly==6.7.0              # Interactive charts & graphs
+
+# Calendar & time utilities
+holidays==0.96             # Polish holidays & special dates
+
+# API & file I/O
+requests==2.33.1           # HTTP requests (Open-Meteo API)
+openpyxl==3.1.5            # Excel file reading/writing
+
+# Prophet dependencies (for probabilistic forecasting)
+cmdstanpy==1.2.5           # Stan backend for Prophet
+pystan==3.11               # Probabilistic programming language
